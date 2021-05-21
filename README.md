@@ -21,4 +21,3 @@
 - 스택 예선에 붙었다. 기분이 매우 몹시 좋다.
 - [시각적주의가 있는 이미지 캡션](https://www.tensorflow.org/tutorials/text/image_captioning?hl=ko#download_and_prepare_the_ms-coco_dataset)을 실행해 보면서 토큰화라는 단어를 발견하게 되었다. 예전에 지나가다가 한번씩 봤었는데 이번기회에 자세히 알아보고자 토큰화에 대해서 알아보겠다.
 - [토큰화](https://wikidocs.net/21698)
-- 
