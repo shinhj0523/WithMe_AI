@@ -21,3 +21,15 @@
 - 스택 예선에 붙었다. 기분이 매우 몹시 좋다.
 - [시각적주의가 있는 이미지 캡션](https://www.tensorflow.org/tutorials/text/image_captioning?hl=ko#download_and_prepare_the_ms-coco_dataset)을 실행해 보면서 토큰화라는 단어를 발견하게 되었다. 예전에 지나가다가 한번씩 봤었는데 이번기회에 자세히 알아보고자 토큰화에 대해서 알아보겠다.
 - [토큰화](https://wikidocs.net/21698)
+
+### 5/24
+- 학교 컴퓨터에 yolov4 설치 하고 실행 하기 까지 완료했다.(anydesk를 사용했다.) [yolov4 모델 깃](https://github.com/theAIGuysCode/yolov4-deepsort)
+- 피피티를 어떻게 만들지 구상하였다.
+  * 개선 서비스 :  이미 나와있는 서비스와 다른 점(차별 점)  강조
+  * NUGU Play Kit(https://developers.nugu.co.kr)을 충분히 숙지하고 실현 가능한 서비스로 구체화
+  * 현재 사용자 경험의 문제점 및 제안 서비스 적용 시 사용자 효용을 명확히 제시
+  * 서비스 컨셉, 주요 기능 및 서비스 시나리오(음성) 구체화
+  * 사용자 발화 주요 의도(Intent) 및 이에 대한 음성의 반응을 상세히 설명
+  * 외부 API 연동 시 API의 기능과 연동구조를 설명
+    
+ 
