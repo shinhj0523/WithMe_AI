@@ -40,3 +40,5 @@
 ### 5/27
 - 피피티 만들 기획서 다썻다.
 - [이미지 캡션 논문](https://arxiv.org/pdf/1502.03044.pdf)이미지 캡션하기 위해서 논문을 참고 했다. 
+- [이미지 데이터 셋](http://images.cocodataset.org/annotations/annotations_trainval2014.zip)
+- [이미지 데이터 셋](http://images.cocodataset.org/zips/train2014.zip)
